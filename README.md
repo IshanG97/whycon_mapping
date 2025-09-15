@@ -1,5 +1,5 @@
 # WhyCon Localisation and Mapping Algorithm
-**Winner of the 2020 University Project Prize**
+**Winner of the 2020 University of Manchester 4th Year Project Prize**
 
 A Python-based mapping and localisation system using WhyCon visual markers for autonomous robot navigation. The system creates real-time occupancy grid maps and provides precise robot positioning through computer vision and sensor fusion techniques.
 
